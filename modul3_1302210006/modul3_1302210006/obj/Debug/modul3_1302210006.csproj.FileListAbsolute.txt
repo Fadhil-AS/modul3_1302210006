@@ -1,0 +1,11 @@
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\bin\Debug\modul3_1302210006.exe.config
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\bin\Debug\modul3_1302210006.exe
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\bin\Debug\modul3_1302210006.pdb
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.Form1.resources
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.exe
+C:\Users\PRAKTIKAN\Downloads\modul3_1302210006\modul3_1302210006\modul3_1302210006\obj\Debug\modul3_1302210006.pdb
